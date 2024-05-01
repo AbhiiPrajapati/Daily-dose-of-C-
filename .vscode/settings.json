@@ -1,0 +1,7 @@
+{
+  "C_Cpp.inactiveRegionOpacity": 0.55,
+  "C_Cpp.errorSquiggles": "enabled",
+  "files.associations": {
+    "iostream": "cpp"
+  }
+}
