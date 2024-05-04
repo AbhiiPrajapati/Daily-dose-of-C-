@@ -14,7 +14,9 @@ int fact(int n)
 int main()
 {
   int n, r, ans;
-  cout << "enter n and r of nCr : ";
+
+  cout
+      << "enter n and r of nCr : ";
   cin >> n >> r;
   ans = (fact(n) / (fact(n - r) * fact(r)));
   cout << ans;
