@@ -17,7 +17,7 @@ bool isprime(int num)
 int main()
 {
   int a, b;
-  cout << "Enter Two Numbers to get prime numbers between them : " << endl;
+  cout << "Enter Two Numbers to get prime numbers between them :  " << endl;
   cin >> a >> b;
   cout << "Prime Numbers between Two numbers are" << endl;
   for (int i = a; i <= b; i++)
