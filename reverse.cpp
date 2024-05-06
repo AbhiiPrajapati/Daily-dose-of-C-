@@ -15,9 +15,9 @@ int main()
 {
   char str[40];
   cin >> str;
-  cout << "Original string : " << str << endl;
+  cout << "Original string is  : " << str << endl;
   reverseString(str);
-  cout << "Reversed string : " << str << endl;
+  cout << "Reversed string is : " << str << endl;
 
   return 0;
 }
