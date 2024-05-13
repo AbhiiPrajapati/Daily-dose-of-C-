@@ -1,3 +1,7 @@
+/* TOPIC  ARRAYS
+Arrays is a list of variables of similar kind
+*/
+
 #include <iostream>
 using namespace std;
 int main()
