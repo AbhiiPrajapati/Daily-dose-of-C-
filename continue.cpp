@@ -9,7 +9,7 @@ int main()
     {
       continue;
     }
-    cout << "dj abss" << i << endl;
+    cout << "continue hora hai" << i << endl;
   }
   return 0;
 }
