@@ -20,7 +20,7 @@ void fib(int n)
 int main()
 {
   int n;
-  cout << " Enter the num untill whom u want to see FIBONICCI series ";
+  cout << " Enter the n " ;
   cin >> n;
   fib(n);
   return 0;

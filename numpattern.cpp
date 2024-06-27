@@ -21,3 +21,5 @@ main()
 
   return 0;
 }
+
+/n pattern question 
