@@ -2,6 +2,8 @@
 using namespace std;
 int main()
 {
+
+cout<<"this program is showing the use of Continue"<<endl;
   for (int i = 0; i < 100; i++)
   {
 
