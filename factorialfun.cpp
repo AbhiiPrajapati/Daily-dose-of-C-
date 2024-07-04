@@ -14,6 +14,8 @@ int fact(int n)
 int main()
 {
   int n;
+
+cout<<" FACTORIAL PROGRAM "<<endl;
   cout << "You want Factotrial of : ";
   cin >> n;
   fact(n);
