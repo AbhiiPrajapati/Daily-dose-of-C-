@@ -19,6 +19,8 @@ void fib(int n)
 
 int main()
 {
+
+cout<<"program showing Fibonacci series"<<endl;
   int n;
   cout << " Enter the n " ;
   cin >> n;

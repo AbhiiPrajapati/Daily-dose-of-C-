@@ -1,6 +1,11 @@
 #include <iostream>
 using namespace std;
 
+
+// this is binary coefficient code
+
+
+
 int fact(int n)
 {
   int factorial = 1;
