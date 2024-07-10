@@ -3,6 +3,7 @@ using namespace std;
 main()
 {
   int n;
+cout << "THIS IS A NUMBER PATTERN PROGRAM" <<endl;
   cout << "enter N : ";
   cin >> n;
 
