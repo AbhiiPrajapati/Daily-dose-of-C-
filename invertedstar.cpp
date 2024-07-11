@@ -3,6 +3,7 @@ using namespace std;
 main()
 {
   int n;
+cout << "THIS IS A INVERTED STAR PROGRAM"<<endl;
   cout << " Enter N : ";
   cin >> n;
   for (int i = n; i >= 1; i--)
