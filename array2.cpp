@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
 
-cout<<" <:: THIS IS ARRAY PROGRAM :>  "<<endl;
+cout<<" <:: THIS IS ARRAY PROGRAM ::>  "<<endl;
   int n;
   cin >> n;
   int array[n];
