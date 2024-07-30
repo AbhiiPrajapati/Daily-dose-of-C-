@@ -21,7 +21,7 @@ int main()
   }
   if (sum == originaln)
   {
-    cout << "It's an Armstrong Number" << endl;
+    cout << "->> It's an Armstrong Number" << endl;
   }
   else
   {
