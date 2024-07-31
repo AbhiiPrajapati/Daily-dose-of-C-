@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-cout<<"this is a program using break statement "<<endl;
+cout<<"THIS IS A PROGRAM USING BREAK STATEMENT "<<endl;
 
   for (int i = 1; i < 100; i++)
   {
