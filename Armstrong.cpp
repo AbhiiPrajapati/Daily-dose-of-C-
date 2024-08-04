@@ -6,7 +6,7 @@ int main()
 {
   int n;
 
-  cout << " :: ARMSTRONG NUMBER PROGRAM :: "<<endl;
+  cout << " : ARMSTRONG NUMBER PROGRAM : "<<endl;
   cout << "Enter a number: ";
   cin >> n;
 
