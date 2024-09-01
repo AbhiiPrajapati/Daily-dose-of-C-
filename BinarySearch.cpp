@@ -29,7 +29,7 @@ int main()
   int n;
 
 cout<< "BINARY SEARCH PROGRAM"<<endl;
-  cout << "Enter the Number of Elements You Want to Enter:: ";
+  cout << "Enter the Number of Elements You Want to Enter::> ";
   cin >> n;
   cout << "Enter the Elements: " << endl;
   int arr[n];
