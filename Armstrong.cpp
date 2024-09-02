@@ -7,7 +7,7 @@ int main()
   int n;
 
   cout << " -+: ARMSTRONG NUMBER PROGRAM :+- "<<endl;
-  cout << "Enter a number: ";
+  cout << "Enter a number:> ";
   cin >> n;
 
   int sum = 0;
