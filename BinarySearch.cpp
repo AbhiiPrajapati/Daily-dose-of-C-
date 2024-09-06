@@ -43,7 +43,7 @@ cout<< "BINARY SEARCH PROGRAM"<<endl;
   int result = BinarySearch(arr, n, key);
   if (result != -1)
   {
-    cout << "Element is at index: " << result << endl;
+    cout << "Element is at index :: " << result << endl;
   }
   else
   {
