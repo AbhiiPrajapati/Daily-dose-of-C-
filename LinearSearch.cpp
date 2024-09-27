@@ -19,7 +19,7 @@ int main()
 cout << " : THIS IS LINEAR SEARCH PROGRAM : "<<endl;
   cout << "Enter the Number of Elements You Want to Enter: ";
   cin >> n;
-  cout << "Enter the Elements: " << endl;
+  cout << "Enter the Elements::+ " << endl;
   int arr[n];
   for (int i = 0; i < n; i++)
   {
