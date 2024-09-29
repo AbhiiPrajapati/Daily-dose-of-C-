@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
   int n;
-  cout << "enter the no. of elements you want to sort : ";
+  cout << "Enter the no. of elements you want to sort :: ";
   cin >> n;
   int arr[n];
   for (int i = 0; i < n; i++)
